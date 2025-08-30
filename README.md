@@ -4,7 +4,8 @@ html>
 <title>Digital vision secondary school</title>
 </head>
 <body bgcolor="yellow">
-MURUNGI NICODEMUS<P><center>
+  <marquee>
+MURUNGI NICODEMUS</marquee></body><P><center>
 DIGITAL VISSION SECONDARY SCHOOL<P>
 <img src="item two/m.jpg"height="100" width="100" border="2"><p></center>
 <u>School mission</u><P>("To provide holistic, quality education that empowers learners to become responsible citizens”) ,<P>
